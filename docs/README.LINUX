@@ -8,4 +8,7 @@ If you find any bug/missing feature in this version, please report it on the
 zsnes-devel mailing list or on sourceforge bugtracker. Check
 http://www.sourceforge.net/projects/zsnes for more information.
 
-If you are using debian or ubuntu be sure to install libsdl-dev
+From a clean ubuntu install you need to install these packages:
+nasm
+libsdl-dev
+libncurses-dev
